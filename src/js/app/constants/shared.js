@@ -1,0 +1,5 @@
+export const LIST_SHARED = 'LIST_SHARED';
+export const CREATE_SHARED = 'CREATE_SHARED';
+export const EXTEND_SHARED = 'EXTEND_SHARED';
+export const DESTROY_SHARED = 'DESTROY_SHARED';
+

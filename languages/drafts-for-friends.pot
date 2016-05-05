@@ -1,0 +1,195 @@
+# Copyright (C) 2016 Drafts for Friends
+# This file is distributed under the same license as the Drafts for Friends package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Drafts for Friends 3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dimitrk\n"
+"POT-Creation-Date: 2016-04-25 21:31:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: drafts-for-friends.php:34
+msgid ""
+"Your current WP (%1$s) or PHP (%2$s) version does not meet the minimum "
+"requirements (PHP: %3$s, WP: %4$s) for Drafts for Friends."
+msgstr ""
+
+#. #-#-#-#-#  en.pot (Drafts for Friends 3.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: src/php/admin-ajax.php:89 src/php/domain-presenters/admin.php:66
+msgid "Drafts for Friends"
+msgstr ""
+
+#: src/php/admin-ajax.php:90
+msgid "Choose a draft"
+msgstr ""
+
+#: src/php/admin-ajax.php:91
+msgid "Currently shared drafts"
+msgstr ""
+
+#: src/php/admin-ajax.php:92
+msgid "ID"
+msgstr ""
+
+#: src/php/admin-ajax.php:93
+msgid "Title"
+msgstr ""
+
+#: src/php/admin-ajax.php:94
+msgid "Link"
+msgstr ""
+
+#: src/php/admin-ajax.php:95
+msgid "Expires"
+msgstr ""
+
+#: src/php/admin-ajax.php:96
+msgid "Actions"
+msgstr ""
+
+#: src/php/admin-ajax.php:97
+msgid "Extend"
+msgstr ""
+
+#: src/php/admin-ajax.php:98
+msgid "Cancel"
+msgstr ""
+
+#: src/php/admin-ajax.php:99
+msgid "Delete"
+msgstr ""
+
+#: src/php/admin-ajax.php:100
+msgid "No shared drafts!"
+msgstr ""
+
+#: src/php/admin-ajax.php:101
+msgid "Share it"
+msgstr ""
+
+#: src/php/admin-ajax.php:102
+msgid "for"
+msgstr ""
+
+#: src/php/admin-ajax.php:103
+msgid "by"
+msgstr ""
+
+#: src/php/admin-ajax.php:104
+msgid "Loading..."
+msgstr ""
+
+#: src/php/admin-ajax.php:105
+msgid "seconds"
+msgstr ""
+
+#: src/php/admin-ajax.php:106
+msgid "minutes"
+msgstr ""
+
+#: src/php/admin-ajax.php:107
+msgid "hours"
+msgstr ""
+
+#: src/php/admin-ajax.php:108
+msgid "days"
+msgstr ""
+
+#: src/php/drafts/shared-manager.php:170
+msgid "The specific shared post is invalid"
+msgstr ""
+
+#: src/php/drafts/shared-manager.php:193
+msgid "Requested post does not exist"
+msgstr ""
+
+#: src/php/drafts/shared-manager.php:202
+msgid "The status of this post is invalid"
+msgstr ""
+
+#: src/php/drafts/shared-manager.php:226
+msgid "The base time should be an integer number."
+msgstr ""
+
+#: src/php/drafts/shared-manager.php:230
+msgid "The expiration metric is not correctly set."
+msgstr ""
+
+#: src/php/drafts/shared-manager.php:234
+msgid "Expiration value should be an integer number."
+msgstr ""
+
+#: src/php/drafts/shared-manager.php:260
+msgid "Your Drafts:"
+msgstr ""
+
+#: src/php/drafts/shared-manager.php:261
+msgid "Your Scheduled Posts:"
+msgstr ""
+
+#: src/php/drafts/shared-manager.php:262
+msgid "Pending Review:"
+msgstr ""
+
+#: src/php/formatters/epoch-time-formatter.php:16
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/php/formatters/epoch-time-formatter.php:20
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/php/formatters/epoch-time-formatter.php:24
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/php/formatters/epoch-time-formatter.php:28
+msgid "% month"
+msgid_plural "% months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/php/formatters/epoch-time-formatter.php:32
+msgid "% year"
+msgid_plural "% years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/php/formatters/epoch-time-formatter.php:84
+msgid "less than a minute"
+msgstr ""
+
+#: src/php/formatters/epoch-time-formatter.php:94
+msgctxt "future time distance"
+msgid "in %s"
+msgstr ""
+
+#: src/php/formatters/epoch-time-formatter.php:99
+msgctxt "past time distance"
+msgid "%s ago"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Now you don't need to add friends as users to the blog in order to let them "
+"preview your drafts"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Neville Longbottom"
+msgstr ""
